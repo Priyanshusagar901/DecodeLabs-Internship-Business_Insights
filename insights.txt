@@ -1,0 +1,32 @@
+# Key Insights
+
+## Revenue Performance
+
+* The business generated a total revenue of ₹[Total Revenue].
+* The average order value (AOV) was ₹[AOV], indicating the average customer spend per order.
+
+## Product Insights
+
+* **[Top Product]** was the highest revenue-generating product.
+* Top-performing products contributed a significant share of overall sales revenue.
+* **[Most Returned Product]** recorded the highest number of returns, highlighting a potential area for product quality or customer experience improvement.
+
+## Customer Insights
+
+* The repeat customer rate was **[X]%**, indicating the level of customer retention and loyalty.
+* The top 5 customers contributed a substantial portion of total revenue, demonstrating the importance of high-value customers.
+
+## Marketing Insights
+
+* **[Top Referral Source]** generated the highest number of customers and revenue.
+* Referral source performance revealed which acquisition channels were most effective in driving sales.
+
+## Operational Insights
+
+* Most orders were successfully processed under the **[Top Order Status]** category.
+* Revenue at risk due to cancelled and returned orders was **₹[Revenue At Risk]**, representing potential revenue loss that could be reduced through operational improvements.
+
+## Sales Trends
+
+* Revenue showed noticeable variation across different months, indicating seasonal purchasing patterns.
+* **[Highest Revenue Month]** recorded the strongest sales performance during the analyzed period.
